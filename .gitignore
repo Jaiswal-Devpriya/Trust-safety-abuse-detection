@@ -1,4 +1,9 @@
 venv/
 .env
+
+data/raw/
+data/processed/
+data/outputs/
+
 __pycache__/
 *.pyc
