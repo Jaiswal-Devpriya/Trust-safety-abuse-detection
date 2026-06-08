@@ -1,4 +1,3 @@
-````markdown
 # Trust & Safety Abuse Detection Pipeline
 
 An LLM-ready content moderation pipeline that processes user-generated content, classifies abuse categories, generates moderation signals, and visualizes moderation insights through an interactive dashboard.
@@ -163,6 +162,3 @@ streamlit run dashboard/streamlit_app.py
 * Generated abuse classification and risk-prioritization signals for Trust & Safety workflows.
 * Designed an LLM-ready moderation architecture supporting future GPT-powered classification.
 * Built an interactive dashboard for abuse trend monitoring and high-risk content review.
-
-```
-```
